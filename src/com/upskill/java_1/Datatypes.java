@@ -21,5 +21,7 @@ public class Datatypes {
 		System.out.println (isGood);
 
 	}
+	
+	//test
 
 }
