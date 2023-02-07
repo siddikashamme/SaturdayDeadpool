@@ -17,5 +17,7 @@ public class Assignment_1 {
 	
 	System.out.println (P);
 	}
+	
+	
 
 }
